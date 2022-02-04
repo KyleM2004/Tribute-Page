@@ -16,9 +16,10 @@
 
 .bio {
     width: 500px;
-    border: 15px solid cyan;
+    border: 15px solid rgb(0, 109, 128);
     padding: 50px;
     margin: 20px;
+    color:aquamarine
 }
 
 .image {
@@ -41,3 +42,5 @@
     background-color: grey;
     color: white;
     text-align: center;
+  }
+  
