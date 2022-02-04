@@ -1,6 +1,28 @@
+.body {
+    background-image: url("https://assets.newatlas.com/dims4/default/08f9727/2147483647/strip/true/crop/2818x1971+0+0/resize/1373x960!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd8%2Ff0%2Ff0ec2c4f4e4aa43915bb656249f2%2Fdepositphotos-171319126-xl-2015.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header {
+    background-color: #ADD8E6;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(0, 109, 128);
+    padding: 10px;
+}
+
 .image {
     width: 300px;
     height: auto;
     border: 1px solid black;
     border-radius: 100%;
+}
+
+.video {
+
+}
+
+footer {
+    background-color: #808080;
 }
